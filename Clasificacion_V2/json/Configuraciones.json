@@ -1,0 +1,11 @@
+{
+
+	"CODIGOPROCESO" : ".\\json\\CodigoDeProceso.json",
+
+	"DATOS_PRUEBA" : ".\\json\\DatosPrueba.json",
+
+	"EXCEPTION" : ".\\json\\Exception.json",
+	
+	"INFOAPOYO" : ".\\json\\InformacionApoyo.json"
+
+}
